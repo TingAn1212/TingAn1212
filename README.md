@@ -13,7 +13,10 @@ Here are some tools that I use:
 </ul> 
 <p>Contact me: </p>
 <p><a href="mailto:wang_ting_an@students.edu.sg">✉️Email</a> • <a href="https://discordapp.com/users/nAgniT#3261">💻Discord</a> • <a href="https://www.instagram.com/na_gnit/">📱Instagram</a> • <a href="https://tingan1212.github.io">🌐Portfolio</a></p>
-
+![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **TingAn1212/TingAn1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/TingAn1212/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
