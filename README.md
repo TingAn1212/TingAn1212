@@ -16,8 +16,6 @@ Here are some tools that I use:
 
 ![](https://raw.githubusercontent.com/TingAn1212/TingAn1212-Profile/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/TingAn1212/TingAn1212-Profile/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/TingAn1212/TingAn1212-Profile/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/TingAn1212/TingAn1212-Profile/master/generated/languages.svg#gh-light-mode-only)
 
 
 
